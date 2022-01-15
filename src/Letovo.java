@@ -10,7 +10,7 @@ public class Letovo {
         for(int i=0;i<a.length;i++) {
             a[i] = r.nextInt(100);
         }
-        printArray(a);
+        //printArray(a);
 
       /*  Car bmw = new Car();
         int aa = bmw.a; // 0
